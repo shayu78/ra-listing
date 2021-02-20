@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/h0h2pxhg3drlru2k?svg=true)](https://ci.appveyor.com/project/shayu78/ra-listing)
 Список предложений
 ===
 
