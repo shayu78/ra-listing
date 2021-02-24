@@ -9,7 +9,7 @@ export default function Listing(props) {
     <div className="item-list">
       {items.map((value) => value.state === 'active'
         ? <div key={value.listing_id} className="item"><Card item={value} /></div> : false)}
-    </div >
+    </div>
   );
 }
 
